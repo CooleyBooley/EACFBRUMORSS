@@ -12,9 +12,11 @@
 >
 >ULL on Twitter
 >
+>Brain Jones @ popculture.com with Steve Schnur
+>
 
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Confident Rumors (Rumors that are from official college accounts, reputable sources, or developers):
 
 > Bowling Green Athletics Instagram Video
@@ -56,8 +58,7 @@
 >o Images:
 >
 ><img src="LeakImages/3.png" width = 450>
-
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 > Developer Jim Hejl Tweets
 > 
 >o Desc: Jim Hejl started working on the CFB game on April 4th, following that he answered many questions in the replies about the game. The replies answered confirm that:
@@ -74,17 +75,23 @@
 > 
 >o Images:
 >
-><img src="LeakImages/4.png" width = 300>
-><img src="LeakImages/5.png" width = 300>
-><img src="LeakImages/6.png" width = 300>
-
-
-
-
-* Semi-Confident Rumors (Rumors from Sources that come from social media with a somewhat good track record/others I sort of believe in):
-
-
-
+><img src="LeakImages/4.png" width = 400>
+><img src="LeakImages/5.png" width = 350>
+><img src="LeakImages/6.png" width = 400>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>  EA President of Music teased details of the game 
+> 
+>o Desc: EA president of music, Steve Schnur teased details of music in the game in an exclusive interview with popculture.com those details include: 
+>
+> - Music will be very different from madden
+> 
+> - Schnur has a concept on what "would be the most amazing college football musical experience."
+> 
+> - Schnur confident fans will love musical aspect
+> 
+>  
+>o Links: https://popculture.com/sports/news/ea-sports-college-football-ea-president-music-teases-details-new-video-game/ ; 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * Rumors (Regular Rumors that don't have much backing):
 
@@ -106,10 +113,22 @@
 > 
 > - Rushing the field and the goal posts coming down is confirmed.
 > 
-> - Custom stadiums like MLB The Show
+> - Dev team wants different stadium experiences
 > 
->o Links: (Can't find a link)
+> - First year of game won't have road to glory
 > 
->o Images:
+> - Ultimate team mode will be in the game and is main focus
+> 
+> - The Dev team WANTS players helmets to fly off BUT universities don't want that
+> 
+> - Will feel same as madden gameplay 
+> 
+> - Custom conferences features will be expanded upon 
+> 
+> - Playoffs can be adjusted to 12 teams
+> 
+>o Links: https://www.reddit.com/r/NCAAFBseries/comments/ppmtne/just_rumors_i_assume_but_id_figure_id_pass_it/
+> 
+>o Images (If you can't see that well just click on the image):
 >
-><img src="LeakImages/7.png" width = 300>
+><img src="LeakImages/7.png">
