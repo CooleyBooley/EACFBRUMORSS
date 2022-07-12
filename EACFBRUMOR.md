@@ -21,7 +21,7 @@
 
 > Bowling Green Athletics Instagram Video
 >
->o Desc: Bowling Green Athletics posted a video on July 16, 2021, showing the process to rendering a stadium… in the video we can see the plan EA wanted for the stadiums as well as how the detailed process was
+>o Desc: Bowling Green Athletics posted a video on July 16, 2021, showing the process to rendering a stadium… in the video we can see the plan EA wanted for the stadiums as well as how the detailed process was. One thing to note is "3D College Campus Space 👀"
 >
 >o Link: www.instagram.com/p/CRZ5pMKg7Fp/?utm_source=ig_web_copy_link
 >
