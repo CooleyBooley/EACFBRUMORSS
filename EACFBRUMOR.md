@@ -6,10 +6,44 @@
 * Confident Rumors (Rumors that are from official college accounts, reputable sources, or developers):
 
 > Bowling Green Athletics Instagram Video
-o Desc: Bowling Green Athletics posted a video on July 16, 2021, showing the process to rendering a stadium… in the video we can see the plan EA wanted for the stadiums as well as how the detailed process was
-o Link: www.instagram.com/p/CRZ5pMKg7Fp/?utm_source=ig_web_copy_link
-o Images:
-![](LeakImages/1.png)
+>
+>o Desc: Bowling Green Athletics posted a video on July 16, 2021, showing the process to rendering a stadium… in the video we can see the plan EA wanted for the stadiums as well as how the detailed process was
+>
+>o Link: www.instagram.com/p/CRZ5pMKg7Fp/?utm_source=ig_web_copy_link
+>
+>o Images:
+>
+><img src="LeakImages/1.png" width = 300>
+>
+><img src="LeakImages/2.png" width = 400>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+> Matt Brown FOIA 
+> 
+>o Desc: Matt Brown, a reputable journalist put out FOIA requests in hopes to find out details on the new college football game. What he recieved was the following:
+>
+> - Game Expected to come out July 2023
+> - Game Development is in full force
+> - EA is trying to obtain audio assets such as Band Songs, Crowd Chants, and Cheers and specific audio that is played during your teams game
+> - EA is also looking for Spirit stickers such as Ohio State as an example
+> - Remaining holdouts not officialy in the game have still provided stadium and audio assets
+> - EA is trying to obtain player likenesses through group licensing
+> - Schools that are participating are being paid through a tier system based on AP polls.
+>
+>o Link: https://www.extrapointsmb.com/heres-everything-i-know-about-ea-sports-college-football-with-updated-info/
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+> ULL Tweets
+> 
+>o Desc: UL Lafayette on twitter tweeted out stadium renderings and in the first tweet CONFIRMED the 2023 July Release Date, however a following tweet
+> that was posted days later (Probably an EA move telling them it is not official) announced that it was not official. 
+>
+>o Links: https://twitter.com/ULLafayette/status/1545121942889500673 ; https://twitter.com/ULLafayette/status/1546961710111760384 
+> 
+>o Images:
+>
+><img src="LeakImages/3.png" width = 300>
 
 
 
