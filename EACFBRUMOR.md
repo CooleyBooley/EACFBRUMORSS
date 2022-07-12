@@ -1,4 +1,4 @@
-* NOTE: Rumors on here are NOT confirmed as some of these date back to when the game was in an idea stage so not everything is 100% and can be changed when game is released. IF YOU FIND ANY MORE LEAKS DM ME {My twitter: @MiraculousMani}
+* NOTE: Rumors on here are NOT confirmed as some of these date back to when the game was in an idea stage so not everything is 100% and can be changed when game is released. IF YOU FIND ANY MORE LEAKS DM ME {My twitter: @MiraculousMani}. Again PLEASE DM me if you know any more else so I can quickly add it. Wihout further ado... enjoy!
 
 >Credits:
 >
