@@ -1,5 +1,17 @@
-* NOTE: Rumors on here are NOT confirmed as some of these date back to when the game was in an idea stage so not everything is 100%
+* NOTE: Rumors on here are NOT confirmed as some of these date back to when the game was in an idea stage so not everything is 100% and can be changed when game is released. IF YOU FIND ANY MORE LEAKS DM ME {My twitter: @MiraculousMani}
 
+>Credits:
+>
+>Matt Brown @ Extra Poitns
+>
+>u/Thibson50 on Reddit
+>
+>Bowling Green Instagram
+>
+>Jim Hejl on Twitter
+>
+>ULL on Twitter
+>
 
 
 
@@ -43,7 +55,28 @@
 > 
 >o Images:
 >
-><img src="LeakImages/3.png" width = 300>
+><img src="LeakImages/3.png" width = 450>
+
+
+> Developer Jim Hejl Tweets
+> 
+>o Desc: Jim Hejl started working on the CFB game on April 4th, following that he answered many questions in the replies about the game. The replies answered confirm that:
+>
+> - THE GAME IS GEN5 ONLY (PS5/Xbox Series X and S)
+> 
+> - Game is being built from the ground up.. not a port
+> 
+> - Only some technical features were copied from Madden such as the weather system
+> 
+> - Game engine is Frostbite (:P) but a very recent version
+> 
+>o Links: https://twitter.com/jimhejl/status/1513738011581812741 ; https://twitter.com/jimhejl/status/1513863883991269381 ; https://twitter.com/jimhejl/status/1513747706174480388
+> 
+>o Images:
+>
+><img src="LeakImages/4.png" width = 300>
+><img src="LeakImages/5.png" width = 300>
+><img src="LeakImages/6.png" width = 300>
 
 
 
@@ -54,3 +87,29 @@
 
 
 * Rumors (Regular Rumors that don't have much backing):
+
+> 4Chan Anonymous Post
+> 
+>o Desc: 4Chan Anonymous user posted the information he recieved from his friend developer about the game. Some of the information has so far been looking accurate, nevertheless here it is (NOTE THIS IS FROM 2021 SO COULD CHANGE):
+>
+> - Game will release in July 2023
+> 
+> - Dev Team split with half wanting to stay away from being a madden clone and half of them wanting to basically "copy" Ncaa 14
+> 
+> - Teambuilder returning
+> 
+> - Custom stadiums like MLB The Show
+> 
+> - Recruiting revamped but will be like call recruits (Similar to Ncaa 13??? idk)
+> 
+> - Spring Practice is returning
+> 
+> - Rushing the field and the goal posts coming down is confirmed.
+> 
+> - Custom stadiums like MLB The Show
+> 
+>o Links: (Can't find a link)
+> 
+>o Images:
+>
+><img src="LeakImages/7.png" width = 300>
